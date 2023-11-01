@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My contact information:
+- fabiosvillar@outlook.com
+- https://www.linkedin.com/in/fabiosvillar/
