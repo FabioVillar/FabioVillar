@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My contact information:
-- fabiosvillar@outlook.com
-- https://www.linkedin.com/in/fabiosvillar/
+- Email : fabiosvillar@outlook.com
+- Linkedin: https://www.linkedin.com/in/fabiosvillar/
+- Portfolio: https://fabiovillar.github.io/Portfolio/
