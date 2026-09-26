@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 My contact information:
 - Email : fabiosvillar@outlook.com
 - Linkedin: https://www.linkedin.com/in/fabiosvillar/
-- Portfolio: https://portfoliofabiovillar.webcat.com.br/
